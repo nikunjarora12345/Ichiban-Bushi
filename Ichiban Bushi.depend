@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1427544550 source:c:\users\nikunjarora\desktop\programmes\ichiban bushi\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
+1437500260 source:c:\users\nikunjarora\desktop\programmes\c++ projects\ichiban bushi\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
